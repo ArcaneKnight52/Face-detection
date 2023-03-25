@@ -18,4 +18,4 @@ Contributing:
 We welcome contributions to this project. If you find any issues or have any suggestions for improvements, please create an issue in the GitHub repository.
 
 License:
-This project is licensed under the MIT license.
+This project is licensed under the GPL 3.0 license.
