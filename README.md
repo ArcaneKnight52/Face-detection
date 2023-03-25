@@ -1,7 +1,7 @@
 # Face-detection
 This project aims to detect human faces in an image or video using machine learning techniques. In this repository, you will find all the necessary code and resources needed to run the face detection algorithm on your own images or videos.
 
-Getting started:
+*Getting started:
   *1.Clone the repository to your local machine.
   *2.Install the required dependencies listed in the "requirements.txt" file.
   *3.Create a "data" directory in the root directory and add your images or videos to it.
